@@ -1,0 +1,17 @@
+{
+	"tdmRepo": {
+		"host": "",
+		"port": "",
+		"serviceName": "",
+		"username": "",
+		"password": ""
+	},
+	"demo": {
+		"host": "",
+		"port": "",
+		"serviceName": "",
+		"username": "",
+		"password": "",
+		"query": '#(query)'
+	}
+}

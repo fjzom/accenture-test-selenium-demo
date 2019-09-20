@@ -1,0 +1,18 @@
+{
+    "testDataRequirements":
+    {
+        "TDMRepo":
+        [
+            {
+                "dataType": "Customer",
+                "numberOfDataVals": "1"
+            }
+         ],
+        "testData":
+        {
+            "ban": '#BIILING_ACCOUNT_NUMBER',
+            "sub": '#TELEPHONE_NUMBER',
+            "wirelessaccountlist":""    
+        }
+    }      
+}

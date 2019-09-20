@@ -1,0 +1,17 @@
+{	
+	"DEMO": {
+		"GOOGLE": "http://www.google.com/en",
+		"ACCENTURE_MX": "https://www.accenture.com/mx-es",
+		"PHP_TRAVELS": "https://www.phptravels.net/"
+	},
+	
+	"SIT": {
+		"GOOGLE": "http://www.google.com/en",
+		"ACCENTURE_MX": "https://www.accenture.com/mx-es"
+	},
+	
+	"DEV": {
+		"GOOGLE": "http://www.google.com/en",
+		"ACCENTURE_MX": "https://www.accenture.com/mx-es"
+		}
+}
